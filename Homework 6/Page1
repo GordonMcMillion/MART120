@@ -1,0 +1,32 @@
+<html>
+    <head>
+    <title>Page1</title>
+    </head>
+    <body>
+        Favorite things
+        <ol>
+            <li>VideoGames</li>
+            <li>Outdoors</li>
+            <li>Chocolate</li>
+            <li>track</li>
+            <li>shushi</li>
+            <li>art</li>
+        </ol>
+        Favorite Resturants
+        <ul>
+            <li><a href="https://www.pandaexpress.com" target="_new">PandaExpress</a></li>
+            <li><a href="https://www.bridgepizza.com" target="_new">BridgePizza</a></li>
+            <li><a href="https://locations.noodles.com/mt/missoula/3680-brooks-st.html" target="_new">NoodlesAndCompany</a></li>
+        </ul>
+        Favorite websites
+        <ol>
+            <li><a href="https://waitbutwhy.com" target="_new">waitbutwhy</a></li>
+            <li><a href="https://theoatmeal.com" target="_new">theoatmeal</a></li>
+            <li><a href="https://www.gnoosic.com" target="_new">gnoosic</a></li>
+        </ol>
+
+        <p><a href="page2.html">Go to the Short Story</a></p>
+        <p><a href="page3.html">Go to Contact Us</a></p>
+
+    </body>
+</html>
