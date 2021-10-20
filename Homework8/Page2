@@ -1,0 +1,43 @@
+<html>
+    <title>Page 2</title>
+    <head>
+        
+        <title>External Style Sheet</title>
+        <link rel"stylesheet"
+        type="text/css" href="mainstyle.css">
+
+        
+    </head>
+    <body {
+        background-image: url("background-image-lush-grass-field-260nw-120120364.jpg");
+        
+       }
+    
+    <body>
+        <h1>Short Story</h1>
+        <p></p>
+        <h1>The Story of the lil  and big dood</h1>
+
+        <p>Once upon a time there was a lil dood</p>
+        
+        <p>the lil dood had a problem he didnt have any food for the night</p>
+        
+        <p>he searched and searched nobody would share</p>
+        
+        <p>Sudenly he saw a very big dood. he was very scary looking and tough.</p>
+        
+        <p>the lil dood was extreamly scared when he saw this big dood walking tward him</p>
+        
+        <p>but then the big dood offered some of his food to the lil dood</p>
+        
+        <p>"thank you sir" the lil dood said to the big dood and they became the best of friends. </p>
+
+        <p>The end</p>
+
+        <img src="https://lh3.googleusercontent.com/proxy/eaIJivrT7NSYIA9Vh8xaiTUcF6HHzpIPda8d5nhLO9ZKsN8NYrx61TnciHSguPlBfc1aDJMP4jW3Fe570Lp0mhOA6yJuPDY" width="300" height="400" />
+
+        <p><a href="page1.html">Home Page</a></p>
+        <p><a href="page3.html">Contact Us Page</a></p>
+
+    </body>
+</html>
